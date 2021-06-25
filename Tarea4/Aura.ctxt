@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Aura
+comment1.params=nombre\ tiemLanz\ elemento
+comment1.target=Aura(java.lang.String,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getElemento()
+numComments=3

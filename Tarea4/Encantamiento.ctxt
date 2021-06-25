@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Encantamiento
+comment1.params=nombre\ tiemLanz\ duracion
+comment1.target=Encantamiento(java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=double\ getDuracion()
+numComments=3

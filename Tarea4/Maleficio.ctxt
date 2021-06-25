@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Maleficio
+comment1.params=nombre\ tiemLanz\ efecto
+comment1.target=Maleficio(java.lang.String,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getEfecto()
+numComments=3

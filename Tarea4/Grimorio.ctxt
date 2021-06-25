@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Grimorio
+comment1.params=
+comment1.target=Grimorio()
+comment2.params=nuevo
+comment2.target=void\ agregarHechizo(Hechizo)
+numComments=3
